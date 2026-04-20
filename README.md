@@ -1,16 +1,23 @@
-## Hi there 👋
+## Felix June "Lix" De Silva
 
-<!--
-**lofilix/lofilix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. I ship web apps in Next.js + Supabase and native iOS apps in SwiftUI. Based in the Philippines, open to remote work worldwide — comfortable with UK / EU / AUS / ASIA hours.
 
-Here are some ideas to get you started:
+### Currently shipping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Byaheng Palawan](https://byahengpalawan.com)** — booking engine for a community tourism platform for Palawan *(Next.js · Supabase · Vercel)*
+- **[Pawstify](https://pawstifypets.com)** — native iOS app *(Swift · SwiftUI)*
+- **[Complex](https://complextimer.com)** — iOS productivity timer *(Swift · SwiftUI)*
+- **[builditfelix.dev](https://builditfelix.dev)** — personal portfolio *(Next.js)*
+
+### Stack
+
+**Web** — Next.js · React · TypeScript · TailwindCSS · Supabase · Vercel
+**Mobile** — Swift · SwiftUI
+**Workflow** — Git · GitHub · Figma · Cursor · VS Code · Claude · MCP servers 
+
+### Get in touch
+
+- Email — [felixjunedesilva@gmail.com](mailto:felixjunedesilva@gmail.com)
+- Portfolio — [builditfelix.dev](https://builditfelix.dev)
+- WhatsApp - +639455001187
+- Open to freelance projects and full-time remote roles
